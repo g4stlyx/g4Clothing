@@ -1,3 +1,5 @@
+DEMO: https://g4stlyx.github.io/g4Clothing/ <br><br>
+
 A responsive e-commerce website project with features like choosing size, showing product count, adding to cart, removing from cart, decreasing and increasing quantity, calculating total and checkout.<br><br>
 
 Created with React, React hooks(useState,useEffect,useContext), Context API, React-Bootstrap, and Axios. <br><br>
