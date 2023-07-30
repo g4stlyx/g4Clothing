@@ -7,7 +7,7 @@ Ensure that you are in the folder including "package.json" file
 
 //connecting the api<br>
 npm i json-server <br> 
-npx json-server --watch "./static/json/products.json"<br><br>
+npx json-server --watch "./static/json/db.json"<br><br>
 
 npm i <br>
 npm run dev 
